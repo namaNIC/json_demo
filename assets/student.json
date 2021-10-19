@@ -1,0 +1,28 @@
+{
+    "name": "Arena",
+    "id": "83286587",
+    "score": "100",
+    "isPass": false,
+    "hobbies": [
+        "Cricket",
+        "Hockey"
+    ],
+    "physics": {
+        "height": 5,
+        "weight": 50
+    },
+    "weekly_test_result": [
+        {
+            "day": "Tue",
+            "score": 30
+        },
+        {
+            "day": "Mon",
+            "score": 20
+        },
+        {
+            "day": "Wed",
+            "score": 10
+        }
+    ]
+}
